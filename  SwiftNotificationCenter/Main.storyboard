@@ -11,7 +11,7 @@
         <!--Sender-->
         <scene sceneID="s0d-6b-0kx">
             <objects>
-                <viewController id="Y6W-OH-hqX" customClass="SenderViewController" customModule="example" sceneMemberID="viewController">
+                <viewController id="Y6W-OH-hqX" customClass="SenderViewController" customModule="_SwiftNotificationCenter" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="5EZ-qb-Rvc">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -38,7 +38,7 @@
         <!--Receiver-->
         <scene sceneID="rH0-bG-edy">
             <objects>
-                <viewController id="o42-XV-sGO" customClass="ReceiverViewController" customModule="example" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="o42-XV-sGO" customClass="ReceiverViewController" customModule="_SwiftNotificationCenter" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="gGI-et-H6E">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

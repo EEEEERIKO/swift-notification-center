@@ -147,7 +147,8 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = PK3A8M7GV6;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = example/Info.plist;
+				INFOPLIST_FILE = " SwiftNotificationCenter/Info.plist";
+				"INFOPLIST_FILE[sdk=*]" = " SwiftNotificationCenter/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -179,7 +180,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = PK3A8M7GV6;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = example/Info.plist;
+				INFOPLIST_FILE = " SwiftNotificationCenter/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
